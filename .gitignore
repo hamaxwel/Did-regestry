@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Hardhat/Truffle/Foundry build artifacts
+artifacts/
+cache/
+coverage/
+
+# Environment files
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# VSCode
+.vscode/ 
